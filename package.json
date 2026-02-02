@@ -1,0 +1,11 @@
+{
+  "name": "carlos-portfolio",
+  "version": "1.0.0",
+  "description": "Terminal Style Portfolio",
+  "scripts": {
+    "dev": "npx http-server . -c-1"
+  },
+  "keywords": [],
+  "author": "Carlos Gonzalez",
+  "license": "ISC"
+}
